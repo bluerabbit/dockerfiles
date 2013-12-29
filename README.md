@@ -1,4 +1,4 @@
-dockerfiles
+Collection of Dockerfiles
 ===========
 
 Docker - files
