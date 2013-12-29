@@ -1,7 +1,9 @@
-Collection of Dockerfiles
+Docker cookbooks
 ===========
 
-Docker - files
+Docker cookbooks is a collection of Dockerfiles and configs to build images the way you need them.
+
+### docker build
 
 ```
 $sudo docker build - < Dockerfile
